@@ -1,0 +1,21 @@
+問1 ３
+問2　２
+問３　４、６
+問４　<div>
+      <div></div>
+      <div></div>
+     </div>
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+      <meta charset="UTF-8">
+      <title></title>
+    </head>
+    <body>
+      <div>
+        <div></div>
+        <div></div>
+      </div>
+    </body>
+    </html>
